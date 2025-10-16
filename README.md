@@ -1,0 +1,2 @@
+# LUNG-CANCER-DETECTION-AND-PREDICTION-USING-DEEP-LEARNING
+Deep learning–based image classification models for early lung cancer detection and prediction. Includes three architectures — CNN, InceptionV3, and VGG16 — trained on medical image datasets for binary classification (benign vs malignant). Implemented in TensorFlow/Keras with visualization, evaluation metrics, and single-image prediction demos.
